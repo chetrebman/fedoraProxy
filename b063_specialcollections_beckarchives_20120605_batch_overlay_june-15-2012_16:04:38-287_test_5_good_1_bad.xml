@@ -1,0 +1,1204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<batch version="2">
+
+<ingestControl command="u" type="meta" />
+
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" 
+	  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xsi:schemaLocation="http://www.loc.gov/METS/   http://www.loc.gov/standards/mets/mets.xsd    http://www.loc.gov/mods/v3   http://www.loc.gov/standards/mods/v3/mods-3-3.xsd    http://purl.org/dc/elements/1.1/  http://dublincore.org/schemas/xmls/qdc/2008/02/11/dc.xsd"
+	OBJID="codu:59293" LABEL="Jesse Shwayder Holding Incendiary Bomb">
+	<mets:dmdSec ID="B063.01.0001.00014">
+		<mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+			<mets:xmlData>
+				<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" >
+					<mods:titleInfo>
+						<mods:title>Jesse Shwayder Holding Incendiary Bomb</mods:title>
+					</mods:titleInfo>
+					
+					<mods:titleInfo type="alternative">
+						<mods:title></mods:title>
+					</mods:titleInfo>
+					<mods:relatedItem type="host">
+						<mods:titleInfo>
+							<mods:title>Beck Archives Photograph Collection, Businesses</mods:title>
+						</mods:titleInfo>
+					</mods:relatedItem>
+					<mods:originInfo>
+						<mods:publisher>University of Denver</mods:publisher>
+						<mods:place>
+							<mods:placeTerm type="text">Denver, Colorado</mods:placeTerm>
+						</mods:place>
+						<mods:dateCreated keyDate="yes">circa 1940</mods:dateCreated>
+					</mods:originInfo>
+					<mods:typeOfResource>still image</mods:typeOfResource>
+					<mods:physicalDescription>
+						<mods:extent>1 item (photograph), 8 x 10 inches, black and white</mods:extent>
+						<mods:note>Handwritten on envelope: "# 155 Jesse Shwayder, 1940's." On back of photograph: "#155 Jesse Shwayder holding incendiary bomb manufactured by Shwayder Bros during war c. early 1940's. L-R Emmet Heisler, Jesse Shwayder, seated, Louis Degen, Donor Samsonite Corporation, advertising dept."</mods:note>
+						<mods:form>Photographic prints</mods:form>
+						<mods:digitalOrigin>Reformatted digital</mods:digitalOrigin>
+					</mods:physicalDescription>
+					
+					<mods:name type="personal">
+						<mods:namePart></mods:namePart>
+						<mods:role>
+							<mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+						</mods:role>
+					</mods:name>
+					
+					
+					<mods:abstract>Jesse Shwayder holds an incendiary bomb manufactured by Shwayder Brothers during World War II. From left to right: Emmet Heisler, Jesse Shwayder, seated, Louis Degen. Two of the men in the photograph are unidentified.  The Shwayders founded the Samsonite Corporation.</mods:abstract>
+					
+						<mods:note>Title supplied by archivist.</mods:note>
+					
+					
+					<mods:note type="admin">Donated by Samsonite Corporation, advertising department.</mods:note>
+					
+					<mods:note type="admin">ph155</mods:note>
+					
+					
+					<mods:language>
+						<mods:languageTerm type="text">Inscription is in English</mods:languageTerm>
+					</mods:language>
+					<mods:identifier type="local">B063.01.0001.00014</mods:identifier>
+					
+					<mods:subject>
+						<mods:name type="personal">
+							<mods:namePart>Shwayder, Jesse</mods:namePart>
+						</mods:name>
+					</mods:subject>
+					
+					<mods:subject>
+						<mods:name type="personal">
+							<mods:namePart>Degen, Louis</mods:namePart>
+						</mods:name>
+					</mods:subject>
+					
+					<mods:subject>
+						<mods:name type="personal">
+							<mods:namePart>Heisler, Emmet</mods:namePart>
+						</mods:name>
+					</mods:subject>
+					
+					
+					<mods:subject>
+						<mods:name type="corporate">
+							<mods:namePart>Shwayder Bros. Inc.</mods:namePart>
+						</mods:name>
+					</mods:subject>
+					
+					<mods:subject>
+						<mods:name type="corporate">
+							<mods:namePart>Samsonite Corporation</mods:namePart>
+						</mods:name>
+					</mods:subject>
+					
+					
+					<mods:subject>
+						<mods:topic>Jews</mods:topic>
+					</mods:subject>
+					
+					<mods:subject>
+						<mods:topic>Jewish businesspeople</mods:topic>
+					</mods:subject>
+					
+					
+					<mods:subject>
+						<mods:genre>Group portraits</mods:genre>
+					</mods:subject>
+					
+					
+					<mods:subject>
+						<mods:geographic>Colorado</mods:geographic>
+					</mods:subject>
+					
+					
+					<mods:accessCondition type="useAndReproduction">Copyright restrictions may apply. User is responsible for all copyright compliance.</mods:accessCondition>
+					<mods:recordInfo>
+						<mods:location>
+							<mods:url usage="primary display">http://hdl.handle.net/10176/codu:59293</mods:url>
+						</mods:location>
+						<mods:languageOfCataloging>
+							<mods:languageTerm authority="iso639-2b" type="text">English</mods:languageTerm>
+							<mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+						</mods:languageOfCataloging>
+					</mods:recordInfo>
+				</mods:mods>
+			</mets:xmlData>
+		</mets:mdWrap>
+	</mets:dmdSec>
+	<mets:dmdSec ID="B063.01.0001.00014.id2">
+		<mets:mdWrap MIMETYPE="text/xml" MDTYPE="DC">
+			<mets:xmlData>
+				<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" >
+					<dc:title>Jesse Shwayder Holding Incendiary Bomb</dc:title>
+					
+					<dc:title></dc:title>
+					<dc:publisher>University of Denver</dc:publisher>
+					
+					<dc:publisher>Denver, Colorado</dc:publisher>
+					
+					<dc:date>circa 1940</dc:date>
+					
+					<dc:type>still image</dc:type>
+					
+					<dc:format>1 item (photograph), 8 x 10 inches, black and white</dc:format>
+					<dc:format>Reformatted digital</dc:format>
+					<dc:format>Photographic prints</dc:format>
+					
+					
+<dc:description>Title supplied by archivist.</dc:description>
+					
+					<dc:description>Handwritten on envelope: "# 155 Jesse Shwayder, 1940's." On back of photograph: "#155 Jesse Shwayder holding incendiary bomb manufactured by Shwayder Bros during war c. early 1940's. L-R Emmet Heisler, Jesse Shwayder, seated, Louis Degen, Donor Samsonite Corporation, advertising dept."</dc:description>
+					<dc:description>Jesse Shwayder holds an incendiary bomb manufactured by Shwayder Brothers during World War II. From left to right: Emmet Heisler, Jesse Shwayder, seated, Louis Degen. Two of the men in the photograph are unidentified.  The Shwayders founded the Samsonite Corporation.</dc:description>
+					<dc:description>Donated by Samsonite Corporation, advertising department.</dc:description>
+					
+<dc:description>ph155</dc:description>
+					
+					<dc:creator></dc:creator>
+					
+					
+					
+					<dc:language>Inscription is in English</dc:language>
+					
+					<dc:identifier>B063.01.0001.00014</dc:identifier>
+		
+					
+<dc:subject>Shwayder, Jesse</dc:subject>
+<dc:subject>Degen, Louis</dc:subject>
+<dc:subject>Heisler, Emmet</dc:subject>
+					
+<dc:subject>Shwayder Bros. Inc.</dc:subject>
+<dc:subject>Samsonite Corporation</dc:subject>
+					
+<dc:subject>Jews</dc:subject>
+<dc:subject>Jewish businesspeople</dc:subject>
+					
+<dc:subject>Group portraits</dc:subject>
+					
+<dc:subject>Colorado</dc:subject>
+					
+					
+					<dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+					
+					<dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+				</dc:dc>
+			</mets:xmlData>
+		</mets:mdWrap>
+	</mets:dmdSec>
+	<mets:amdSec>
+	</mets:amdSec>
+	
+	<mets:fileSec>
+		<mets:fileGrp ID="GR1" USE="master">
+			<mets:file MIMETYPE="image/tiff" ID="B063.01.0001.00014.tif">
+				<mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="file:B063.01.0001.00014.tif"></mets:FLocat>
+			</mets:file>
+		</mets:fileGrp>
+		<mets:fileGrp ID="GR2" USE="access">
+			<mets:file MIMETYPE="image/jpeg" ID="B063.01.0001.00014_access.jpg">
+				<mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="file:B063.01.0001.00014_access.jpg"></mets:FLocat>
+			</mets:file>
+		</mets:fileGrp>
+	</mets:fileSec>
+	<mets:structMap TYPE="logical">
+		<mets:div TYPE="section" LABEL="Jesse Shwayder Holding Incendiary Bomb" ID="B063.01.0001.00014.id">
+			<mets:fptr FILEID="B063.01.0001.00014.tif"></mets:fptr>
+			<mets:fptr FILEID="B063.01.0001.00014_access.jpg"></mets:fptr>
+		</mets:div>
+	</mets:structMap>
+</mets:mets>
+		  
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" 
+	  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xsi:schemaLocation="http://www.loc.gov/METS/   http://www.loc.gov/standards/mets/mets.xsd    http://www.loc.gov/mods/v3   http://www.loc.gov/standards/mods/v3/mods-3-3.xsd    http://purl.org/dc/elements/1.1/  http://dublincore.org/schemas/xmls/qdc/2008/02/11/dc.xsd"
+	OBJID="codu:BAD" LABEL="Jesse Shwayder with Golden Rule Marbles">
+	<mets:dmdSec ID="B063.01.0001.00015">
+		<mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+			<mets:xmlData>
+				<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" >
+					<mods:titleInfo>
+						<mods:title>Jesse Shwayder with Golden Rule Marbles</mods:title>
+					</mods:titleInfo>
+					
+					<mods:titleInfo type="alternative">
+						<mods:title></mods:title>
+					</mods:titleInfo>
+					<mods:relatedItem type="host">
+						<mods:titleInfo>
+							<mods:title>Beck Archives Photograph Collection, Businesses</mods:title>
+						</mods:titleInfo>
+					</mods:relatedItem>
+					<mods:originInfo>
+						<mods:publisher>University of Denver</mods:publisher>
+						<mods:place>
+							<mods:placeTerm type="text">Denver, Colorado</mods:placeTerm>
+						</mods:place>
+						<mods:dateCreated keyDate="yes">between 1960-1970</mods:dateCreated>
+					</mods:originInfo>
+					<mods:typeOfResource>still image</mods:typeOfResource>
+					<mods:physicalDescription>
+						<mods:extent>2 item (photograph), 10 x 8 inches, </mods:extent>
+						<mods:note>Handwritten on envelope: ''# 156 Jess Shwayder c 1960's''. On back of photograph, ''#156 Jesse Shwayder, with Golden Rule Marbles c 1960's  Donor Samsonite Corp. Advertising dept.''</mods:note>
+						<mods:form>Photographic prints</mods:form>
+						<mods:digitalOrigin>Reformatted digital</mods:digitalOrigin>
+					</mods:physicalDescription>
+					
+					<mods:name type="personal">
+						<mods:namePart></mods:namePart>
+						<mods:role>
+							<mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+						</mods:role>
+					</mods:name>
+					
+					
+					<mods:abstract>Jesse Shwayder sits at a desk with a set of Golden Rule Marbles. These marbles were often given away to employees of the Samsonite Corporation, as well as visitors to remind them of the Golden Rule.</mods:abstract>
+					
+						<mods:note>Title supplied by archivist.</mods:note>
+					
+					
+					<mods:note type="admin">Donated by Samsonite Corporation, advertising department.</mods:note>
+					
+					<mods:note type="admin">ph156</mods:note>
+					
+					
+					<mods:language>
+						<mods:languageTerm type="text">Inscription is in English.</mods:languageTerm>
+					</mods:language>
+					<mods:identifier type="local">B063.01.0001.00015</mods:identifier>
+					
+					<mods:subject>
+						<mods:name type="personal">
+							<mods:namePart>Shwayder, Jesse</mods:namePart>
+						</mods:name>
+					</mods:subject>
+					
+					
+					<mods:subject>
+						<mods:name type="corporate">
+							<mods:namePart>Samsonite Corporation</mods:namePart>
+						</mods:name>
+					</mods:subject>
+					
+					
+					<mods:subject>
+						<mods:topic>Jews</mods:topic>
+					</mods:subject>
+					
+					<mods:subject>
+						<mods:topic>Jewish businesspeople</mods:topic>
+					</mods:subject>
+					
+					<mods:subject>
+						<mods:topic>Luggage industry</mods:topic>
+					</mods:subject>
+					
+					
+					<mods:subject>
+						<mods:genre>Portraits</mods:genre>
+					</mods:subject>
+					
+					
+					<mods:subject>
+						<mods:geographic>Denver (Colo.)</mods:geographic>
+					</mods:subject>
+					
+					
+					<mods:subject>
+						<mods:occupation>Manufacturer</mods:occupation>
+					</mods:subject>
+					
+					<mods:accessCondition type="useAndReproduction">Copyright restrictions may apply. User is responsible for all copyright compliance.</mods:accessCondition>
+					<mods:recordInfo>
+						<mods:location>
+							<mods:url usage="primary display">http://hdl.handle.net/10176/codu:59398</mods:url>
+						</mods:location>
+						<mods:languageOfCataloging>
+							<mods:languageTerm authority="iso639-2b" type="text">English</mods:languageTerm>
+							<mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+						</mods:languageOfCataloging>
+					</mods:recordInfo>
+				</mods:mods>
+			</mets:xmlData>
+		</mets:mdWrap>
+	</mets:dmdSec>
+	<mets:dmdSec ID="B063.01.0001.00015.id2">
+		<mets:mdWrap MIMETYPE="text/xml" MDTYPE="DC">
+			<mets:xmlData>
+				<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" >
+					<dc:title>Jesse Shwayder with Golden Rule Marbles</dc:title>
+					
+					<dc:title></dc:title>
+					<dc:publisher>University of Denver</dc:publisher>
+					
+					<dc:publisher>Denver, Colorado</dc:publisher>
+					
+					<dc:date>between 1960-1970</dc:date>
+					
+					<dc:type>still image</dc:type>
+					
+					<dc:format>2 item (photograph), 10 x 8 inches, </dc:format>
+					<dc:format>Reformatted digital</dc:format>
+					<dc:format>Photographic prints</dc:format>
+					
+					
+<dc:description>Title supplied by archivist.</dc:description>
+					
+					<dc:description>Handwritten on envelope: ''# 156 Jess Shwayder c 1960's''. On back of photograph, ''#156 Jesse Shwayder, with Golden Rule Marbles c 1960's  Donor Samsonite Corp. Advertising dept.''</dc:description>
+					<dc:description>Jesse Shwayder sits at a desk with a set of Golden Rule Marbles. These marbles were often given away to employees of the Samsonite Corporation, as well as visitors to remind them of the Golden Rule.</dc:description>
+					<dc:description>Donated by Samsonite Corporation, advertising department.</dc:description>
+					
+<dc:description>ph156</dc:description>
+					
+					<dc:creator></dc:creator>
+					
+					
+					
+					<dc:language>Inscription is in English.</dc:language>
+					
+					<dc:identifier>B063.01.0001.00015</dc:identifier>
+		
+					
+<dc:subject>Shwayder, Jesse</dc:subject>
+					
+<dc:subject>Samsonite Corporation</dc:subject>
+					
+<dc:subject>Jews</dc:subject>
+<dc:subject>Jewish businesspeople</dc:subject>
+<dc:subject>Luggage industry</dc:subject>
+					
+<dc:subject>Portraits</dc:subject>
+					
+<dc:subject>Denver (Colo.)</dc:subject>
+					
+<dc:subject>Manufacturer</dc:subject>
+					
+					<dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+					
+					<dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+				</dc:dc>
+			</mets:xmlData>
+		</mets:mdWrap>
+	</mets:dmdSec>
+	<mets:amdSec>
+	</mets:amdSec>
+	
+	<mets:fileSec>
+		<mets:fileGrp ID="GR1" USE="master">
+			<mets:file MIMETYPE="image/tiff" ID="B063.01.0001.00015.tif">
+				<mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="file:B063.01.0001.00015.tif"></mets:FLocat>
+			</mets:file>
+		</mets:fileGrp>
+		<mets:fileGrp ID="GR2" USE="access">
+			<mets:file MIMETYPE="image/jpeg" ID="B063.01.0001.00015_access.jpg">
+				<mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="file:B063.01.0001.00015_access.jpg"></mets:FLocat>
+			</mets:file>
+		</mets:fileGrp>
+	</mets:fileSec>
+	<mets:structMap TYPE="logical">
+		<mets:div TYPE="section" LABEL="Jesse Shwayder with Golden Rule Marbles" ID="B063.01.0001.00015.id">
+			<mets:fptr FILEID="B063.01.0001.00015.tif"></mets:fptr>
+			<mets:fptr FILEID="B063.01.0001.00015_access.jpg"></mets:fptr>
+		</mets:div>
+	</mets:structMap>
+</mets:mets>
+		  
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" 
+	  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xsi:schemaLocation="http://www.loc.gov/METS/   http://www.loc.gov/standards/mets/mets.xsd    http://www.loc.gov/mods/v3   http://www.loc.gov/standards/mods/v3/mods-3-3.xsd    http://purl.org/dc/elements/1.1/  http://dublincore.org/schemas/xmls/qdc/2008/02/11/dc.xsd"
+	OBJID="codu:59350" LABEL="Portrait of Jesse Shwayder">
+	<mets:dmdSec ID="B063.01.0001.00016">
+		<mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+			<mets:xmlData>
+				<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" >
+					<mods:titleInfo>
+						<mods:title>Portrait of Jesse Shwayder</mods:title>
+					</mods:titleInfo>
+					
+					<mods:titleInfo type="alternative">
+						<mods:title></mods:title>
+					</mods:titleInfo>
+					<mods:relatedItem type="host">
+						<mods:titleInfo>
+							<mods:title>Beck Archives Photograph Collection, Businesses</mods:title>
+						</mods:titleInfo>
+					</mods:relatedItem>
+					<mods:originInfo>
+						<mods:publisher>University of Denver</mods:publisher>
+						<mods:place>
+							<mods:placeTerm type="text">Denver, Colorado</mods:placeTerm>
+						</mods:place>
+						<mods:dateCreated keyDate="yes">between 1960-1970</mods:dateCreated>
+					</mods:originInfo>
+					<mods:typeOfResource>still image</mods:typeOfResource>
+					<mods:physicalDescription>
+						<mods:extent>1 item (photograph), 10 x 8 inches, </mods:extent>
+						<mods:note>Handwritten on envelope: "# 157 Jess Shwayder c 1960's." On back of photograph, "Jesse Shwayder. c 1960's (80th birthday?), #157, donor Samsonite Corp."  There is also a stamp which reads: "Photo: Samsonite Corporation  Please Credit."</mods:note>
+						<mods:form>Photographic prints</mods:form>
+						<mods:digitalOrigin>Reformatted digital</mods:digitalOrigin>
+					</mods:physicalDescription>
+					
+					<mods:name type="personal">
+						<mods:namePart></mods:namePart>
+						<mods:role>
+							<mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+						</mods:role>
+					</mods:name>
+					
+					
+					<mods:abstract>Portrait of Jesse Shwayder in the 1960's. The photograph was possibly taken on his 80th birthday. Jesse Shwayder and his brothers founded the Samsonite Corporation.</mods:abstract>
+					
+						<mods:note>Title supplied by archivist.</mods:note>
+					
+					
+					<mods:note type="admin">Donated by Samsonite Corporation.</mods:note>
+					
+					<mods:note type="admin">ph157</mods:note>
+					
+					
+					<mods:language>
+						<mods:languageTerm type="text">Inscription is in English.</mods:languageTerm>
+					</mods:language>
+					<mods:identifier type="local">B063.01.0001.00016</mods:identifier>
+					
+					<mods:subject>
+						<mods:name type="personal">
+							<mods:namePart>Shwayder, Jesse</mods:namePart>
+						</mods:name>
+					</mods:subject>
+					
+					
+					<mods:subject>
+						<mods:name type="corporate">
+							<mods:namePart>Samsonite Corporation</mods:namePart>
+						</mods:name>
+					</mods:subject>
+					
+					
+					<mods:subject>
+						<mods:topic>Jews</mods:topic>
+					</mods:subject>
+					
+					<mods:subject>
+						<mods:topic>Jewish businesspeople</mods:topic>
+					</mods:subject>
+					
+					
+					<mods:subject>
+						<mods:genre>Portraits</mods:genre>
+					</mods:subject>
+					
+					
+					<mods:subject>
+						<mods:geographic>Colorado</mods:geographic>
+					</mods:subject>
+					
+					
+					<mods:accessCondition type="useAndReproduction">Copyright restrictions may apply. User is responsible for all copyright compliance.</mods:accessCondition>
+					<mods:recordInfo>
+						<mods:location>
+							<mods:url usage="primary display">http://hdl.handle.net/10176/codu:59350</mods:url>
+						</mods:location>
+						<mods:languageOfCataloging>
+							<mods:languageTerm authority="iso639-2b" type="text">English</mods:languageTerm>
+							<mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+						</mods:languageOfCataloging>
+					</mods:recordInfo>
+				</mods:mods>
+			</mets:xmlData>
+		</mets:mdWrap>
+	</mets:dmdSec>
+	<mets:dmdSec ID="B063.01.0001.00016.id2">
+		<mets:mdWrap MIMETYPE="text/xml" MDTYPE="DC">
+			<mets:xmlData>
+				<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" >
+					<dc:title>Portrait of Jesse Shwayder</dc:title>
+					
+					<dc:title></dc:title>
+					<dc:publisher>University of Denver</dc:publisher>
+					
+					<dc:publisher>Denver, Colorado</dc:publisher>
+					
+					<dc:date>between 1960-1970</dc:date>
+					
+					<dc:type>still image</dc:type>
+					
+					<dc:format>1 item (photograph), 10 x 8 inches, </dc:format>
+					<dc:format>Reformatted digital</dc:format>
+					<dc:format>Photographic prints</dc:format>
+					
+					
+<dc:description>Title supplied by archivist.</dc:description>
+					
+					<dc:description>Handwritten on envelope: "# 157 Jess Shwayder c 1960's." On back of photograph, "Jesse Shwayder. c 1960's (80th birthday?), #157, donor Samsonite Corp."  There is also a stamp which reads: "Photo: Samsonite Corporation  Please Credit."</dc:description>
+					<dc:description>Portrait of Jesse Shwayder in the 1960's. The photograph was possibly taken on his 80th birthday. Jesse Shwayder and his brothers founded the Samsonite Corporation.</dc:description>
+					<dc:description>Donated by Samsonite Corporation.</dc:description>
+					
+<dc:description>ph157</dc:description>
+					
+					<dc:creator></dc:creator>
+					
+					
+					
+					<dc:language>Inscription is in English.</dc:language>
+					
+					<dc:identifier>B063.01.0001.00016</dc:identifier>
+		
+					
+<dc:subject>Shwayder, Jesse</dc:subject>
+					
+<dc:subject>Samsonite Corporation</dc:subject>
+					
+<dc:subject>Jews</dc:subject>
+<dc:subject>Jewish businesspeople</dc:subject>
+					
+<dc:subject>Portraits</dc:subject>
+					
+<dc:subject>Colorado</dc:subject>
+					
+					
+					<dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+					
+					<dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+				</dc:dc>
+			</mets:xmlData>
+		</mets:mdWrap>
+	</mets:dmdSec>
+	<mets:amdSec>
+	</mets:amdSec>
+	
+	<mets:fileSec>
+		<mets:fileGrp ID="GR1" USE="master">
+			<mets:file MIMETYPE="image/tiff" ID="B063.01.0001.00016.tif">
+				<mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="file:B063.01.0001.00016.tif"></mets:FLocat>
+			</mets:file>
+		</mets:fileGrp>
+		<mets:fileGrp ID="GR2" USE="access">
+			<mets:file MIMETYPE="image/jpeg" ID="B063.01.0001.00016_access.jpg">
+				<mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="file:B063.01.0001.00016_access.jpg"></mets:FLocat>
+			</mets:file>
+		</mets:fileGrp>
+	</mets:fileSec>
+	<mets:structMap TYPE="logical">
+		<mets:div TYPE="section" LABEL="Portrait of Jesse Shwayder" ID="B063.01.0001.00016.id">
+			<mets:fptr FILEID="B063.01.0001.00016.tif"></mets:fptr>
+			<mets:fptr FILEID="B063.01.0001.00016_access.jpg"></mets:fptr>
+		</mets:div>
+	</mets:structMap>
+</mets:mets>
+		  
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" 
+	  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xsi:schemaLocation="http://www.loc.gov/METS/   http://www.loc.gov/standards/mets/mets.xsd    http://www.loc.gov/mods/v3   http://www.loc.gov/standards/mods/v3/mods-3-3.xsd    http://purl.org/dc/elements/1.1/  http://dublincore.org/schemas/xmls/qdc/2008/02/11/dc.xsd"
+	OBJID="codu:59394" LABEL="Portrait of Jesse Shwayder">
+	<mets:dmdSec ID="B063.01.0001.00017">
+		<mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+			<mets:xmlData>
+				<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" >
+					<mods:titleInfo>
+						<mods:title>Portrait of Jesse Shwayder</mods:title>
+					</mods:titleInfo>
+					
+					<mods:titleInfo type="alternative">
+						<mods:title></mods:title>
+					</mods:titleInfo>
+					<mods:relatedItem type="host">
+						<mods:titleInfo>
+							<mods:title>Beck Archives Photograph Collection, Businesses</mods:title>
+						</mods:titleInfo>
+					</mods:relatedItem>
+					<mods:originInfo>
+						<mods:publisher>University of Denver</mods:publisher>
+						<mods:place>
+							<mods:placeTerm type="text">Denver, Colorado</mods:placeTerm>
+						</mods:place>
+						<mods:dateCreated keyDate="yes">between 1960-1970</mods:dateCreated>
+					</mods:originInfo>
+					<mods:typeOfResource>still image</mods:typeOfResource>
+					<mods:physicalDescription>
+						<mods:extent>1 item (photograph), 10 x 8 inches, </mods:extent>
+						<mods:note>Handwritten on envelope: "# 158 Jesse Shwayder, c. 1960's." On back of photograph, "#158 Jesse Shwayder c 1960's, Donor Samsonite Corp."</mods:note>
+						<mods:form>Photographic prints</mods:form>
+						<mods:digitalOrigin>Reformatted digital</mods:digitalOrigin>
+					</mods:physicalDescription>
+					
+					<mods:name type="personal">
+						<mods:namePart></mods:namePart>
+						<mods:role>
+							<mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+						</mods:role>
+					</mods:name>
+					
+					
+					<mods:abstract>Portrait of Jesse Shwayder standing behind a table with a bible in his right hand. Jesse Shwayder and his brothers founded the Samsonite Corporation.</mods:abstract>
+					
+						<mods:note>Title supplied by archivist.</mods:note>
+					
+					
+					<mods:note type="admin">Donated by Samsonite Corporation.</mods:note>
+					
+					<mods:note type="admin">ph158</mods:note>
+					
+					
+					<mods:language>
+						<mods:languageTerm type="text">Inscription is in English.</mods:languageTerm>
+					</mods:language>
+					<mods:identifier type="local">B063.01.0001.00017</mods:identifier>
+					
+					<mods:subject>
+						<mods:name type="personal">
+							<mods:namePart>Shwayder, Jesse</mods:namePart>
+						</mods:name>
+					</mods:subject>
+					
+					
+					<mods:subject>
+						<mods:name type="corporate">
+							<mods:namePart>Samsonite Corporation</mods:namePart>
+						</mods:name>
+					</mods:subject>
+					
+					
+					<mods:subject>
+						<mods:topic>Jews</mods:topic>
+					</mods:subject>
+					
+					<mods:subject>
+						<mods:topic>Jewish businesspeople</mods:topic>
+					</mods:subject>
+					
+					
+					<mods:subject>
+						<mods:genre>Portraits</mods:genre>
+					</mods:subject>
+					
+					
+					<mods:subject>
+						<mods:geographic>Colorado</mods:geographic>
+					</mods:subject>
+					
+					
+					<mods:accessCondition type="useAndReproduction">Copyright restrictions may apply. User is responsible for all copyright compliance.</mods:accessCondition>
+					<mods:recordInfo>
+						<mods:location>
+							<mods:url usage="primary display">http://hdl.handle.net/10176/codu:59394</mods:url>
+						</mods:location>
+						<mods:languageOfCataloging>
+							<mods:languageTerm authority="iso639-2b" type="text">English</mods:languageTerm>
+							<mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+						</mods:languageOfCataloging>
+					</mods:recordInfo>
+				</mods:mods>
+			</mets:xmlData>
+		</mets:mdWrap>
+	</mets:dmdSec>
+	<mets:dmdSec ID="B063.01.0001.00017.id2">
+		<mets:mdWrap MIMETYPE="text/xml" MDTYPE="DC">
+			<mets:xmlData>
+				<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" >
+					<dc:title>Portrait of Jesse Shwayder</dc:title>
+					
+					<dc:title></dc:title>
+					<dc:publisher>University of Denver</dc:publisher>
+					
+					<dc:publisher>Denver, Colorado</dc:publisher>
+					
+					<dc:date>between 1960-1970</dc:date>
+					
+					<dc:type>still image</dc:type>
+					
+					<dc:format>1 item (photograph), 10 x 8 inches, </dc:format>
+					<dc:format>Reformatted digital</dc:format>
+					<dc:format>Photographic prints</dc:format>
+					
+					
+<dc:description>Title supplied by archivist.</dc:description>
+					
+					<dc:description>Handwritten on envelope: "# 158 Jesse Shwayder, c. 1960's." On back of photograph, "#158 Jesse Shwayder c 1960's, Donor Samsonite Corp."</dc:description>
+					<dc:description>Portrait of Jesse Shwayder standing behind a table with a bible in his right hand. Jesse Shwayder and his brothers founded the Samsonite Corporation.</dc:description>
+					<dc:description>Donated by Samsonite Corporation.</dc:description>
+					
+<dc:description>ph158</dc:description>
+					
+					<dc:creator></dc:creator>
+					
+					
+					
+					<dc:language>Inscription is in English.</dc:language>
+					
+					<dc:identifier>B063.01.0001.00017</dc:identifier>
+		
+					
+<dc:subject>Shwayder, Jesse</dc:subject>
+					
+<dc:subject>Samsonite Corporation</dc:subject>
+					
+<dc:subject>Jews</dc:subject>
+<dc:subject>Jewish businesspeople</dc:subject>
+					
+<dc:subject>Portraits</dc:subject>
+					
+<dc:subject>Colorado</dc:subject>
+					
+					
+					<dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+					
+					<dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+				</dc:dc>
+			</mets:xmlData>
+		</mets:mdWrap>
+	</mets:dmdSec>
+	<mets:amdSec>
+	</mets:amdSec>
+	
+	<mets:fileSec>
+		<mets:fileGrp ID="GR1" USE="master">
+			<mets:file MIMETYPE="image/tiff" ID="B063.01.0001.00017.tif">
+				<mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="file:B063.01.0001.00017.tif"></mets:FLocat>
+			</mets:file>
+		</mets:fileGrp>
+		<mets:fileGrp ID="GR2" USE="access">
+			<mets:file MIMETYPE="image/jpeg" ID="B063.01.0001.00017_access.jpg">
+				<mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="file:B063.01.0001.00017_access.jpg"></mets:FLocat>
+			</mets:file>
+		</mets:fileGrp>
+	</mets:fileSec>
+	<mets:structMap TYPE="logical">
+		<mets:div TYPE="section" LABEL="Portrait of Jesse Shwayder" ID="B063.01.0001.00017.id">
+			<mets:fptr FILEID="B063.01.0001.00017.tif"></mets:fptr>
+			<mets:fptr FILEID="B063.01.0001.00017_access.jpg"></mets:fptr>
+		</mets:div>
+	</mets:structMap>
+</mets:mets>
+		  
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" 
+	  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xsi:schemaLocation="http://www.loc.gov/METS/   http://www.loc.gov/standards/mets/mets.xsd    http://www.loc.gov/mods/v3   http://www.loc.gov/standards/mods/v3/mods-3-3.xsd    http://purl.org/dc/elements/1.1/  http://dublincore.org/schemas/xmls/qdc/2008/02/11/dc.xsd"
+	OBJID="codu:59404" LABEL="The Shwayder Brothers Standing on a Samsonite Suitcase">
+	<mets:dmdSec ID="B063.01.0001.00018">
+		<mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+			<mets:xmlData>
+				<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" >
+					<mods:titleInfo>
+						<mods:title>The Shwayder Brothers Standing on a Samsonite Suitcase</mods:title>
+					</mods:titleInfo>
+					
+					<mods:titleInfo type="alternative">
+						<mods:title></mods:title>
+					</mods:titleInfo>
+					<mods:relatedItem type="host">
+						<mods:titleInfo>
+							<mods:title>Beck Archives Photograph Collection, Businesses</mods:title>
+						</mods:titleInfo>
+					</mods:relatedItem>
+					<mods:originInfo>
+						<mods:publisher>University of Denver</mods:publisher>
+						<mods:place>
+							<mods:placeTerm type="text">Denver, Colorado</mods:placeTerm>
+						</mods:place>
+						<mods:dateCreated keyDate="yes">circa 1910</mods:dateCreated>
+					</mods:originInfo>
+					<mods:typeOfResource>still image</mods:typeOfResource>
+					<mods:physicalDescription>
+						<mods:extent>2 item (photograph), 10 x 8 inches, </mods:extent>
+						<mods:note>On envelope: "# 160. Shwayder Bros. standing on suitcase." On back of photograph, "#160, The five Shwayder Brothers standing on suitcase to show strength of 'Samson' case 1910. Famous advertising display. Donor Samsonite Corp."  Stamp on back of photograph: "Negative Filed at Samsonite Photo Lab." Printers instructions.</mods:note>
+						<mods:form>Photographic prints</mods:form>
+						<mods:digitalOrigin>Reformatted digital</mods:digitalOrigin>
+					</mods:physicalDescription>
+					
+					<mods:name type="personal">
+						<mods:namePart></mods:namePart>
+						<mods:role>
+							<mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+						</mods:role>
+					</mods:name>
+					
+					
+					<mods:abstract>The five Shwayder brothers stand on a board that is balanced on a Samsonite suitcase to demonstrate the strength of the suitcase. Jesse Shwayder is pictured second from the right. Other Shwayder brothers are: Mark, Maurice, Benjamin and Solomon. The Shwayder brothers owned Shwayder Trunk Company, which later became known as the Samsonite Corporation. The photograph was used to advertise Samsonite luggage.</mods:abstract>
+					
+						<mods:note>Title supplied by archivist.</mods:note>
+					
+						<mods:note>Appears in ''Images of America: Jewish Denver 1859-1940,'' by Dr. Jeanne Abrams, page 34.</mods:note>
+					
+					
+					<mods:note type="admin">Donated by Samsonite Corporation.</mods:note>
+					
+					<mods:note type="admin">ph160</mods:note>
+					
+					
+					<mods:language>
+						<mods:languageTerm type="text">Inscription is in English.</mods:languageTerm>
+					</mods:language>
+					<mods:identifier type="local">B063.01.0001.00018</mods:identifier>
+					
+					<mods:subject>
+						<mods:name type="personal">
+							<mods:namePart>Shwayder, Jesse</mods:namePart>
+						</mods:name>
+					</mods:subject>
+					
+					<mods:subject>
+						<mods:name type="personal">
+							<mods:namePart>Shwayder, Solomon</mods:namePart>
+						</mods:name>
+					</mods:subject>
+					
+					<mods:subject>
+						<mods:name type="personal">
+							<mods:namePart>Shwayder, Benjamin</mods:namePart>
+						</mods:name>
+					</mods:subject>
+					
+					<mods:subject>
+						<mods:name type="personal">
+							<mods:namePart>Shwayder, Maurice B.</mods:namePart>
+						</mods:name>
+					</mods:subject>
+					
+					<mods:subject>
+						<mods:name type="personal">
+							<mods:namePart>Shwayder, Mark</mods:namePart>
+						</mods:name>
+					</mods:subject>
+					
+					
+					<mods:subject>
+						<mods:name type="corporate">
+							<mods:namePart>Samsonite Corporation</mods:namePart>
+						</mods:name>
+					</mods:subject>
+					
+					<mods:subject>
+						<mods:name type="corporate">
+							<mods:namePart>Shwayder Bros. Inc.</mods:namePart>
+						</mods:name>
+					</mods:subject>
+					
+					<mods:subject>
+						<mods:name type="corporate">
+							<mods:namePart>Shwayder Trunk Company</mods:namePart>
+						</mods:name>
+					</mods:subject>
+					
+					
+					<mods:subject>
+						<mods:topic>Jews</mods:topic>
+					</mods:subject>
+					
+					<mods:subject>
+						<mods:topic>Jewish businesspeople</mods:topic>
+					</mods:subject>
+					
+					<mods:subject>
+						<mods:topic>Advertising</mods:topic>
+					</mods:subject>
+					
+					<mods:subject>
+						<mods:topic>Luggage industry</mods:topic>
+					</mods:subject>
+					
+					
+					<mods:subject>
+						<mods:genre>Group portraits</mods:genre>
+					</mods:subject>
+					
+					
+					<mods:subject>
+						<mods:geographic>Denver (Colo.)</mods:geographic>
+					</mods:subject>
+					
+					
+					<mods:subject>
+						<mods:occupation>Manufacturer</mods:occupation>
+					</mods:subject>
+					
+					<mods:accessCondition type="useAndReproduction">Copyright restrictions may apply. User is responsible for all copyright compliance.</mods:accessCondition>
+					<mods:recordInfo>
+						<mods:location>
+							<mods:url usage="primary display">http://hdl.handle.net/10176/codu:59404</mods:url>
+						</mods:location>
+						<mods:languageOfCataloging>
+							<mods:languageTerm authority="iso639-2b" type="text">English</mods:languageTerm>
+							<mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+						</mods:languageOfCataloging>
+					</mods:recordInfo>
+				</mods:mods>
+			</mets:xmlData>
+		</mets:mdWrap>
+	</mets:dmdSec>
+	<mets:dmdSec ID="B063.01.0001.00018.id2">
+		<mets:mdWrap MIMETYPE="text/xml" MDTYPE="DC">
+			<mets:xmlData>
+				<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" >
+					<dc:title>The Shwayder Brothers Standing on a Samsonite Suitcase</dc:title>
+					
+					<dc:title></dc:title>
+					<dc:publisher>University of Denver</dc:publisher>
+					
+					<dc:publisher>Denver, Colorado</dc:publisher>
+					
+					<dc:date>circa 1910</dc:date>
+					
+					<dc:type>still image</dc:type>
+					
+					<dc:format>2 item (photograph), 10 x 8 inches, </dc:format>
+					<dc:format>Reformatted digital</dc:format>
+					<dc:format>Photographic prints</dc:format>
+					
+					
+<dc:description>Title supplied by archivist.</dc:description>
+<dc:description>Appears in ''Images of America: Jewish Denver 1859-1940,'' by Dr. Jeanne Abrams, page 34.</dc:description>
+					
+					<dc:description>On envelope: "# 160. Shwayder Bros. standing on suitcase." On back of photograph, "#160, The five Shwayder Brothers standing on suitcase to show strength of 'Samson' case 1910. Famous advertising display. Donor Samsonite Corp."  Stamp on back of photograph: "Negative Filed at Samsonite Photo Lab." Printers instructions.</dc:description>
+					<dc:description>The five Shwayder brothers stand on a board that is balanced on a Samsonite suitcase to demonstrate the strength of the suitcase. Jesse Shwayder is pictured second from the right. Other Shwayder brothers are: Mark, Maurice, Benjamin and Solomon. The Shwayder brothers owned Shwayder Trunk Company, which later became known as the Samsonite Corporation. The photograph was used to advertise Samsonite luggage.</dc:description>
+					<dc:description>Donated by Samsonite Corporation.</dc:description>
+					
+<dc:description>ph160</dc:description>
+					
+					<dc:creator></dc:creator>
+					
+					
+					
+					<dc:language>Inscription is in English.</dc:language>
+					
+					<dc:identifier>B063.01.0001.00018</dc:identifier>
+		
+					
+<dc:subject>Shwayder, Jesse</dc:subject>
+<dc:subject>Shwayder, Solomon</dc:subject>
+<dc:subject>Shwayder, Benjamin</dc:subject>
+<dc:subject>Shwayder, Maurice B.</dc:subject>
+<dc:subject>Shwayder, Mark</dc:subject>
+					
+<dc:subject>Samsonite Corporation</dc:subject>
+<dc:subject>Shwayder Bros. Inc.</dc:subject>
+<dc:subject>Shwayder Trunk Company</dc:subject>
+					
+<dc:subject>Jews</dc:subject>
+<dc:subject>Jewish businesspeople</dc:subject>
+<dc:subject>Advertising</dc:subject>
+<dc:subject>Luggage industry</dc:subject>
+					
+<dc:subject>Group portraits</dc:subject>
+					
+<dc:subject>Denver (Colo.)</dc:subject>
+					
+<dc:subject>Manufacturer</dc:subject>
+					
+					<dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+					
+					<dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+				</dc:dc>
+			</mets:xmlData>
+		</mets:mdWrap>
+	</mets:dmdSec>
+	<mets:amdSec>
+	</mets:amdSec>
+	
+	<mets:fileSec>
+		<mets:fileGrp ID="GR1" USE="master">
+			<mets:file MIMETYPE="image/tiff" ID="B063.01.0001.00018.tif">
+				<mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="file:B063.01.0001.00018.tif"></mets:FLocat>
+			</mets:file>
+		</mets:fileGrp>
+		<mets:fileGrp ID="GR2" USE="access">
+			<mets:file MIMETYPE="image/jpeg" ID="B063.01.0001.00018_access.jpg">
+				<mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="file:B063.01.0001.00018_access.jpg"></mets:FLocat>
+			</mets:file>
+		</mets:fileGrp>
+	</mets:fileSec>
+	<mets:structMap TYPE="logical">
+		<mets:div TYPE="section" LABEL="The Shwayder Brothers Standing on a Samsonite Suitcase" ID="B063.01.0001.00018.id">
+			<mets:fptr FILEID="B063.01.0001.00018.tif"></mets:fptr>
+			<mets:fptr FILEID="B063.01.0001.00018_access.jpg"></mets:fptr>
+		</mets:div>
+	</mets:structMap>
+</mets:mets>
+		  
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" 
+	  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xsi:schemaLocation="http://www.loc.gov/METS/   http://www.loc.gov/standards/mets/mets.xsd    http://www.loc.gov/mods/v3   http://www.loc.gov/standards/mods/v3/mods-3-3.xsd    http://purl.org/dc/elements/1.1/  http://dublincore.org/schemas/xmls/qdc/2008/02/11/dc.xsd"
+	OBJID="codu:59315" LABEL="Max Stein Peddling Pineapples from his Wagon">
+	<mets:dmdSec ID="B063.01.0001.00023">
+		<mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+			<mets:xmlData>
+				<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" >
+					<mods:titleInfo>
+						<mods:title>Max Stein Peddling Pineapples from his Wagon</mods:title>
+					</mods:titleInfo>
+					
+					<mods:titleInfo type="alternative">
+						<mods:title></mods:title>
+					</mods:titleInfo>
+					<mods:relatedItem type="host">
+						<mods:titleInfo>
+							<mods:title>Beck Archives Photograph Collection, Businesses</mods:title>
+						</mods:titleInfo>
+					</mods:relatedItem>
+					<mods:originInfo>
+						<mods:publisher>University of Denver</mods:publisher>
+						<mods:place>
+							<mods:placeTerm type="text">Denver, Colorado</mods:placeTerm>
+						</mods:place>
+						<mods:dateCreated keyDate="yes">circa 1910</mods:dateCreated>
+					</mods:originInfo>
+					<mods:typeOfResource>still image</mods:typeOfResource>
+					<mods:physicalDescription>
+						<mods:extent>2 items (photograph), 8 x 10 inches, </mods:extent>
+						<mods:note>On envelope: "# 386 Max Stein Peddling Pineapples in Pueblo c. 1910." Handwritten on back of one photograph: "Max Stein with his fruit wagon, c. 1910. Pueblo Co., Donor Mrs. Ruth Stein, #386, MMJ2."  Handwritten on back of one photograph: "#386 Max Stein peddling pineapple in Pueblo."</mods:note>
+						<mods:form>Photographic prints</mods:form>
+						<mods:digitalOrigin>Reformatted digital</mods:digitalOrigin>
+					</mods:physicalDescription>
+					
+					<mods:name type="personal">
+						<mods:namePart></mods:namePart>
+						<mods:role>
+							<mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+						</mods:role>
+					</mods:name>
+					
+					
+					<mods:abstract>Max Stein stands in front of his horse-drawn fruit wagon on a street in Pueblo, Colorado with an unidentified man holding pineapples.  Stein also served as a mounted policeman in Pueblo at the turn of the century.</mods:abstract>
+					
+						<mods:note>Title supplied by archivist.</mods:note>
+					
+						<mods:note>Appears in ''Images of America: Jewish Denver 1859-1940,'' by Dr. Jeanne Abrams, page 127.</mods:note>
+					
+					
+					<mods:note type="admin">Donated by Mrs. Ruth Stein</mods:note>
+					
+					<mods:note type="admin">ph386</mods:note>
+					
+					
+					<mods:language>
+						<mods:languageTerm type="text">Inscription is in English.</mods:languageTerm>
+					</mods:language>
+					<mods:identifier type="local">B063.01.0001.00023</mods:identifier>
+					
+					<mods:subject>
+						<mods:name type="personal">
+							<mods:namePart>Stein, Max</mods:namePart>
+						</mods:name>
+					</mods:subject>
+					
+					
+					
+					<mods:subject>
+						<mods:topic>Jews</mods:topic>
+					</mods:subject>
+					
+					<mods:subject>
+						<mods:topic>Jewish businesspeople</mods:topic>
+					</mods:subject>
+					
+					<mods:subject>
+						<mods:topic>Street vendors</mods:topic>
+					</mods:subject>
+					
+					
+					<mods:subject>
+						<mods:genre>Photographs</mods:genre>
+					</mods:subject>
+					
+					
+					<mods:subject>
+						<mods:geographic>Pueblo (Colo.)</mods:geographic>
+					</mods:subject>
+					
+					
+					<mods:accessCondition type="useAndReproduction">Copyright restrictions may apply. User is responsible for all copyright compliance.</mods:accessCondition>
+					<mods:recordInfo>
+						<mods:location>
+							<mods:url usage="primary display">http://hdl.handle.net/10176/codu:59315</mods:url>
+						</mods:location>
+						<mods:languageOfCataloging>
+							<mods:languageTerm authority="iso639-2b" type="text">English</mods:languageTerm>
+							<mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+						</mods:languageOfCataloging>
+					</mods:recordInfo>
+				</mods:mods>
+			</mets:xmlData>
+		</mets:mdWrap>
+	</mets:dmdSec>
+	<mets:dmdSec ID="B063.01.0001.00023.id2">
+		<mets:mdWrap MIMETYPE="text/xml" MDTYPE="DC">
+			<mets:xmlData>
+				<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" >
+					<dc:title>Max Stein Peddling Pineapples from his Wagon</dc:title>
+					
+					<dc:title></dc:title>
+					<dc:publisher>University of Denver</dc:publisher>
+					
+					<dc:publisher>Denver, Colorado</dc:publisher>
+					
+					<dc:date>circa 1910</dc:date>
+					
+					<dc:type>still image</dc:type>
+					
+					<dc:format>2 items (photograph), 8 x 10 inches, </dc:format>
+					<dc:format>Reformatted digital</dc:format>
+					<dc:format>Photographic prints</dc:format>
+					
+					
+<dc:description>Title supplied by archivist.</dc:description>
+<dc:description>Appears in ''Images of America: Jewish Denver 1859-1940,'' by Dr. Jeanne Abrams, page 127.</dc:description>
+					
+					<dc:description>On envelope: "# 386 Max Stein Peddling Pineapples in Pueblo c. 1910." Handwritten on back of one photograph: "Max Stein with his fruit wagon, c. 1910. Pueblo Co., Donor Mrs. Ruth Stein, #386, MMJ2."  Handwritten on back of one photograph: "#386 Max Stein peddling pineapple in Pueblo."</dc:description>
+					<dc:description>Max Stein stands in front of his horse-drawn fruit wagon on a street in Pueblo, Colorado with an unidentified man holding pineapples.  Stein also served as a mounted policeman in Pueblo at the turn of the century.</dc:description>
+					<dc:description>Donated by Mrs. Ruth Stein</dc:description>
+					
+<dc:description>ph386</dc:description>
+					
+					<dc:creator></dc:creator>
+					
+					
+					
+					<dc:language>Inscription is in English.</dc:language>
+					
+					<dc:identifier>B063.01.0001.00023</dc:identifier>
+		
+					
+<dc:subject>Stein, Max</dc:subject>
+					
+					
+<dc:subject>Jews</dc:subject>
+<dc:subject>Jewish businesspeople</dc:subject>
+<dc:subject>Street vendors</dc:subject>
+					
+<dc:subject>Photographs</dc:subject>
+					
+<dc:subject>Pueblo (Colo.)</dc:subject>
+					
+					
+					<dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+					
+					<dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+				</dc:dc>
+			</mets:xmlData>
+		</mets:mdWrap>
+	</mets:dmdSec>
+	<mets:amdSec>
+	</mets:amdSec>
+	
+	<mets:fileSec>
+		<mets:fileGrp ID="GR1" USE="master">
+			<mets:file MIMETYPE="image/tiff" ID="B063.01.0001.00023.tif">
+				<mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="file:B063.01.0001.00023.tif"></mets:FLocat>
+			</mets:file>
+		</mets:fileGrp>
+		<mets:fileGrp ID="GR2" USE="access">
+			<mets:file MIMETYPE="image/jpeg" ID="B063.01.0001.00023_access.jpg">
+				<mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="file:B063.01.0001.00023_access.jpg"></mets:FLocat>
+			</mets:file>
+		</mets:fileGrp>
+	</mets:fileSec>
+	<mets:structMap TYPE="logical">
+		<mets:div TYPE="section" LABEL="Max Stein Peddling Pineapples from his Wagon" ID="B063.01.0001.00023.id">
+			<mets:fptr FILEID="B063.01.0001.00023.tif"></mets:fptr>
+			<mets:fptr FILEID="B063.01.0001.00023_access.jpg"></mets:fptr>
+		</mets:div>
+	</mets:structMap>
+</mets:mets>
+		  
+
+		  
+</batch>
