@@ -37,13 +37,13 @@ import org.springframework.web.bind.annotation.RequestParam;
  * @author chet
  * 
  *   TEST with
- *     http://lib-ram.cair.du.edu:7080/fedoraProxy/du/nation/risearch?type=tuples&lang=itql&format=CSV&limit=100&distinct=off&stream=off&query=select+%24object+from+%3C%23ri%3E+where+%28+%24object+%3Cfedora-rels-ext%3AisMemberOfCollection%3E%3Cinfo%3Afedora%2Fcodu%3A37742%3E+%29
+ *     http://locahost:7080/fedoraProxy/du/nation/risearch?type=tuples&lang=itql&format=CSV&limit=100&distinct=off&stream=off&query=select+%24object+from+%3C%23ri%3E+where+%28+%24object+%3Cfedora-rels-ext%3AisMemberOfCollection%3E%3Cinfo%3Afedora%2Fcodu%3A37742%3E+%29
  * 
  * 	 becomes...
- * 	   http://fedora.coalliance.org:8080/fedora/risearch?type=tuples&lang=itql&format=CSV&limit=100&distinct=off&stream=off&query=select+%24object+from+%3C%23ri%3E+where+%28+%24object+%3Cfedora-rels-ext%3AisMemberOfCollection%3E%3Cinfo%3Afedora%2Fcodu%3A37742%3E+%29
+ * 	   http://host/fedora/risearch?type=tuples&lang=itql&format=CSV&limit=100&distinct=off&stream=off&query=select+%24object+from+%3C%23ri%3E+where+%28+%24object+%3Cfedora-rels-ext%3AisMemberOfCollection%3E%3Cinfo%3Afedora%2Fcodu%3A37742%3E+%29
  * 
  *   which is...
- *     http://fedora.coalliance.org:8080/fedora/risearch?type=tuples&lang=itql&format=CSV&limit=100&distinct=off&stream=off&query=select $object from <#ri> where ( $object <fedora-rels-ext:isMemberOfCollection><info:fedora/codu:37742> )
+ *     http://host/fedora/risearch?type=tuples&lang=itql&format=CSV&limit=100&distinct=off&stream=off&query=select $object from <#ri> where ( $object <fedora-rels-ext:isMemberOfCollection><info:fedora/codu:37742> )
  */
 @Controller
 @RequestMapping(value = "/{webSite}/risearch" )
