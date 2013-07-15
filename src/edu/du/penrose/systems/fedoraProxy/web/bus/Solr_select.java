@@ -36,11 +36,11 @@ import org.springframework.web.bind.annotation.RequestParam;
  * @author chet
  * 
  *         TEST with
- *         http://lib-ram.cair.du.edu:7080/fedoraProxy/du/nation/solr/select?q=dc.subject:maps 
+ *         http://localhost:7080/fedoraProxy/du/nation/solr/select?q=dc.subject:maps 
  *         OR
- *         http://digitaldu.coalliance.org/fedoraProxy/du/nation/solr/select?q=dc.subject:maps 
+ *         http://host/fedoraProxy/du/nation/solr/select?q=dc.subject:maps 
  *         
- *            becomes  http://solr.coalliance.org:8080/solr/select?q=dc.subject:maps
+ *            becomes  http://solrhost/solr/select?q=dc.subject:maps
  */
 @Controller
 @RequestMapping(value = "/{webSite}/solr/select")
