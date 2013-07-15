@@ -42,17 +42,17 @@ import org.springframework.web.bind.annotation.RequestMethod;
  *       
  *        http://localhost:7080/fedoraProxy/du/nation/datastream.get/codu:57084/DC
  * or
- *        http://digitaldu.coalliance.org/fedoraProxy/du/nation/datastream.get/codu:57084/DC
- *        http://digitaldu.coalliance.org/fedoraProxy/du/ectd/datastream.get/codu:60105/DC
+ *        http://host/fedoraProxy/du/nation/datastream.get/codu:57084/DC
+ *        http://host/fedoraProxy/du/ectd/datastream.get/codu:60105/DC
  *        
  *   becomes..
  *         
- *         http://fedora.coalliance.org:8080/fedora/get/codu:57084/DC                NEW FEDORA
+ *         http://fedorahost/fedora/get/codu:57084/DC                NEW FEDORA
  *         
  *         
  *         http://localhost:8080/fedora/get/codu:113/MODS                          LOCAL Fedora
  *         
- * OR      http://adr.coalliance.org:9080/fedora/get/codu:37742/COLLECTION_POLICY    OLD FEDORA
+ * OR      http://fedorahost/fedora/get/codu:37742/COLLECTION_POLICY    OLD FEDORA
  * 
  *         
  * 
