@@ -55,8 +55,8 @@ import edu.du.penrose.systems.fedoraProxy.FedoraProxyConstants;
  * 	http://localhost:7080/fedoraProxy/du/adr/oai.get?verb=ListSets or ListMetadataFormats 
  * 
  * Test ADR with
- * 	http://adr.coalliance.org:80/codu/fez/oai.php?verb=ListMetadataFormats  OLD ADR
- *  http://peakdigital.coalliance.org:80/oai2?verb=ListMetadataFormats
+ * 	http://host/codu/fez/oai.php?verb=ListMetadataFormats  OLD ADR
+ *  http://host/oai2?verb=ListMetadataFormats
  *    Doesn't seem to work any more I notice the response for ListMetadataFormats is encoded in gzip where the original fez results were not 12-14-11
  * 
  * @author chet
